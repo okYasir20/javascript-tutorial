@@ -1,2 +1,2 @@
 # javascript-tutorial
-js from cha and code
+js from chai and code
